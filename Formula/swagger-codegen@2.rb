@@ -1,4 +1,4 @@
-class SwaggerCodegenAT2@248 < Formula
+class SwaggerCodegenAT2 < Formula
   desc "Generate clients, server stubs, and docs from an OpenAPI spec"
   homepage "https://swagger.io/swagger-codegen/"
   url "https://github.com/swagger-api/swagger-codegen/archive/v2.4.8.tar.gz"
